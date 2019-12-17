@@ -1,3 +1,5 @@
+![Image of Yaktocat](match3.gif)
+
 This is a Match 3 game implemented using DOTS and Entities in Unity.
 
 It works with Unity 2019.3.0f3.
